@@ -11,7 +11,7 @@ require('http').createServer((req, res) => res.end(`
  |-----------------------------------------|
  |• Author: フェランズ#3249                   |
  |-----------------------------------------|
- |• Server: https://discord.gg/gU7XAxTpX5  |
+ |• Server: https://discord.gg/p3UfFaRhUN  |
  |-----------------------------------------|
  |• Github: https://github.com/diwasatreya |
  |-----------------------------------------|
