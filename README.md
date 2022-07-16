@@ -6,25 +6,18 @@
 # 👋 Introducing `Advanced Music Bot`
 `Advanced Music Bot` It is an advance type of discord music bot which plays high quality of music with spotify, apple music support . You can save your songs and play it. It also has DJ mode system.
 
-# Emoji Server
-
-[Join](https://discord.gg/whJeF4mDAX) our server and ask to mods/developers
-
 # 🚀 Demo
 Here is our support server where you can try this bot features
 
-> [Join](https://discord.gg/whJeF4mDAX)
-
-Liked it? Please follow me on github <b>[diwasatreya](https://github.com/diwasatreya/)</b>.
+Liked it? Please follow me on github <b>[フェランズ](https://github.com/Feranzu/)</b>.
 
 ### Many Thanks to all the `Stargazers` who has supported this project with stars(⭐)
 
-[![Stargazers repo roster for @atapas/model-repo](https://reporoster.com/stars/diwasatreya/Advanced-Music-Bot)](https://github.com/diwasatreya/Advanced-Music-Bot/stargazers)
 
 # 💻 Use Repo
-Please access `Advanced Music Bot` using the URL:
+Please access `ATNV57` using the URL:
 
-> https://github.com/diwasatreya/Advanced-Music-Bot
+> https://github.com/Feranzu/ATNV57.git
 
 # 🔥 Features
 `advanced music bot` has many new features!
@@ -43,7 +36,7 @@ Please access `Advanced Music Bot` using the URL:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/diwasatreya/Advanced-Music-Bot.git
+git clone https://github.com/Feranzu/ATNV57.git
 ```
 
 2. Upgrade node if you are using replit
@@ -105,10 +98,10 @@ Any kind of positive contribution is welcome! Please help us to grow by contribu
 
 # Command Handler
 - Credit goes to him also
-- Command Handler Made By [elbkr](https://github.com/elbkr)
+- Command Handler Made By [フェランズ]()
 
 <h3 align="center">
-<b>Follow</b> https://github.com/diwasatreya/
+<b>Follow</b> https://github.com/Feranzu
 </h3>
 
   
